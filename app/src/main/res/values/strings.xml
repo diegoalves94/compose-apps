@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">compose-apps</string>
+    <string name="title_activity_birthday">BirthdayActivity</string>
+</resources>
